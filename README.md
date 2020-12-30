@@ -20,7 +20,7 @@ Third part- Client-side: The client was developed in Vue.js framework, and inclu
     $ python app.py
     ```
 
-3. Open another terminal window andRun the navigate to releaseNotesClient directory.
+3. Open another terminal window and navigate to releaseNotesClient directory.
 4. Install npm and run serve
 
     ```sh
