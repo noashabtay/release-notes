@@ -4,8 +4,8 @@
 2. Install requirements.txt and run app.py:
    
     ```sh
-    (env)$ pip install -r requirements.txt
-    (env)$ python app.py
+    $ pip install -r requirements.txt
+    $ python app.py
     ```
 
 3. Open another terminal window andRun the nevigate to releaseNotesClient directory.
