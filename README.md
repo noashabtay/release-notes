@@ -4,8 +4,6 @@
 2. Install requirements.txt and run app.py:
    
     ```sh
-    $ python3.8 -m venv env
-    $ source env/bin/activate
     (env)$ pip install -r requirements.txt
     (env)$ python app.py
     ```
