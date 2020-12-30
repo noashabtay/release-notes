@@ -8,7 +8,7 @@
     $ python app.py
     ```
 
-3. Open another terminal window andRun the nevigate to releaseNotesClient directory.
+3. Open another terminal window andRun the navigate to releaseNotesClient directory.
 4. Install npm and run serve
 
     ```sh
